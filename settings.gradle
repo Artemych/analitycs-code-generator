@@ -1,0 +1,2 @@
+include ':app', ':analytics-annotation', ':analytics', ':analytics-processor'
+rootProject.name='My Application'
